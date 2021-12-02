@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+E:\Algoritimo e logica de programação\temp\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
+4030059203.index
+3510846143.index
+1865797976.index
+2965794504.index
