@@ -1,0 +1,45 @@
+body {
+	padding: 0;
+	margin: 0;
+	height: 100vh;
+	background: linear-gradient(100deg, #554396, #952fff);
+}
+
+table {
+	color: white;
+	font-family: sans-serif;
+}
+
+.cadastro {
+	font-family:sans-serif;
+	color :white;
+	margin-top: 250px;
+	margin-left:500px;
+	width: 400px;
+	display: flex;
+	flex-direction: column;
+	
+}
+
+input {
+	color: white;
+	background: #2e2e2e;
+	border: 0;
+	border-radius: 6px;
+	margin-left: 2px;
+	margin-bottom: 2px;
+	background-color: #4f3aa7;
+}
+
+.insert, input {
+	background: rgb(255, 255, 255, 0.15);
+	background-filter: blur;
+}
+
+input, .button {
+	height: 65px;
+	font-size: 1.2rem;
+	padding: 0 20px;
+	boder-radius: 5px;
+	color: #AAA;
+}

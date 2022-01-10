@@ -1,0 +1,37 @@
+body {
+	padding: 0;
+	margin: 0;
+	height: 66vh;
+	background: linear-gradient(100deg, #554396, #952fff);
+}
+
+.container {
+	font-family: sans-serif;
+	color: white;
+	margin: 250px 450px;
+	width: 184px;
+	display: flex;
+	flex-direction: column;
+}
+
+.botao {
+	margin-left: 10px;
+	display: flex;
+	justify-content: center;
+	color: white;
+	background: rgb(255, 255, 255, 0.15);
+	margin: 2px 0;
+	border-radius: 6px;
+	border: 0;
+	width: 180px;
+	height: 50px;
+	border: 0;
+	color: white;
+}
+
+a {
+	font-family: 'Roboto', sans-serif;
+	margin: 20px auto;
+	text-decoration: none;
+	color: white;
+}

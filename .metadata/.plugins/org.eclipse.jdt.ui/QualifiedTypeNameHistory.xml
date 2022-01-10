@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="attributes.Retangulo"/>
+    <fullyQualifiedTypeName name="entities.Employee"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="entities.AritimeticMedia"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.com.projetowebjspdao.utils.Conexao"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="br.com.projetowebjspdao.dao.CidadeDAO"/>
+    <fullyQualifiedTypeName name="br.com.projetowebjspdao.entity.Cidade"/>
+    <fullyQualifiedTypeName name="br.com.projetowebjspdaogame.dao.GameDAO"/>
 </qualifiedTypeNameHistroy>

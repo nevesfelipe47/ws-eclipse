@@ -1,0 +1,84 @@
+body {
+	padding: 0;
+	margin: 0;
+	height: 100vh;
+	background: linear-gradient(100deg, #554396, #952fff);
+}
+
+#cadastro {
+	font-family: sans-serif;
+	color: white;
+	margin-top: 250px;
+	margin-left: 500px;
+	width: 430px;
+	display: flex;
+	flex-direction: column;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	background: #2e2e2e;
+	border: 0;
+	margin-bottom: 2px;
+
+	color: white;
+}
+
+table {
+  text-align: center;
+  font-family: Montserrat, Arial, sans-serif;
+  background:#fafafa ;
+  margin: 0 auto;
+  width: 80%;
+}
+
+tr:nth-child(even) {
+  background:lightgray;
+}
+
+fieldset {
+	display: flex;
+	height: auto;
+	width: 180%;
+}
+
+
+.container {
+	width: 400px;
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+}
+
+
+
+input {
+	color: white;
+	background: #2e2e2e;
+	border: 0;
+	border-radius: 6px;
+	margin-left: 2px;
+	margin-bottom: 2px;
+	background-color: #4f3aa7;
+	background: rgb(255, 255, 255, 0.15);
+}
+
+.insert input {
+	background: rgb(255, 255, 255, 0.15);
+	
+}
+
+input .button {
+	height: 65px;
+	font-size: 1.2rem;
+	padding: 0 20px;
+	
+	color: #AAA;
+}
+
+legend {
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+}
